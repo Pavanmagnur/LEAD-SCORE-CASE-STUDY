@@ -12,6 +12,6 @@ For this case study, where the target, resultant outcome is either the lead will
 
 Case study done by:
 
-Pavan Kumar Maganur
-Chandrakhala Acharya
+Pavan Kumar Maganur,
+Chandrakala Acharya,
 Shaurya Pandey
