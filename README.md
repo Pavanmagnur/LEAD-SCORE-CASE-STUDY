@@ -9,3 +9,9 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 Case Study Approach:
 
 For this case study, where the target, resultant outcome is either the lead will join the course or not. Since the resultant outcome is categorical in nature, we will use the logistic regression model to predict the potential lead based on the given data and check its accuracy and prediction power using certain metrics.
+
+Case study done by:
+
+Pavan Kumar Maganur
+Chandrakhala Acharya
+Shaurya Pandey
